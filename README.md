@@ -70,7 +70,7 @@ See `.env.example`:
 MIT — see [LICENSE](LICENSE).
 
 ## Meet the team
-Samuel Joshua J
-Thanu Shree N
-Mahalakshmi S
+- Samuel Joshua J
+- Thanu Shree N
+- Mahalakshmi S
 
